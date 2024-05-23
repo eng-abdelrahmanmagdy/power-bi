@@ -48,14 +48,3 @@ This Power BI project is dedicated to analyzing pizza sales data. It encompasses
 11. **Deriving Insights from the Sales Dashboard**
     - Techniques for extracting and interpreting actionable insights from the sales dashboard.
     - Guidance on presenting data insights to inform business decisions.
-
-## Getting Started
-
-### Prerequisites
-- Ensure Power BI Desktop is installed on your computer.
-- Familiarity with data handling and visualization, particularly in the context of sales data.
-
-### Installation
-1. Clone the project repository:
-   ```sh
-   git clone https://github.com/yourusername/powerbi-pizza-sales.git
